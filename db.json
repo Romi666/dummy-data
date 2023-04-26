@@ -1,158 +1,152 @@
 {
-    "props": [
-        "Scheme.ListTenor.ListTenor.TipeNilaiBiayaAdmin",
-        "Scheme.ListTenor.ListTenor.BiayaAdmin",
-        "Scheme.ListTenor.ListTenor.Bunga",
-        "Scheme.ListTenor.Tenor"
-        ],
     "data": [
-    {
-        "CeilingValue": 1000,
-        "Code": "PRDTEST",
-        "Descr": "PRADANA TEST",
-        "ErrorMessage": null,
-        "FieldPaymentFreq": "",
-        "FieldTipeAngsuran": "",
-        "FieldTipeBiayaAdmin": "",
-        "FieldTipeBiayaAdminLainnya": "",
-        "FieldTipeBiayaAsuransi": "",
-        "FieldTipeBiayaFiducia": "",
-        "FieldTipeBiayaLainnya": "",
-        "FieldTipePembayaran": "",
-        "Message": null,
-        "PaymentFreq": "",
-        "RiskTypeId": "",
-        "Scheme": [
-            {
-                "ListTenor": [
-                    {
-                        "BiayaAdmin": 100000,
-                        "Bunga": 10.5,
-                        "Tenor": 12,
-                        "TipeNilaiBiayaAdmin": "AMT",
-                        "ListTenor": [
-                            {
-                                "BiayaAdmin": 100000,
-                                "Bunga": 10.5,
-                                "Tenor": 12,
-                                "TipeNilaiBiayaAdmin": "AMT"
-                            },
-                            {
-                                "BiayaAdmin": 200000,
-                                "Bunga": 20.5,
-                                "Tenor": 24,
-                                "TipeNilaiBiayaAdmin": "AMT"
-                            }
-                        ]
-                    },
-                    {
-                        "BiayaAdmin": 200000,
-                        "Bunga": 20.5,
-                        "Tenor": 24,
-                        "TipeNilaiBiayaAdmin": "AMT",
-                        "ListTenor": [
-                            {
-                                "BiayaAdmin": 100000,
-                                "Bunga": 10.5,
-                                "Tenor": 12,
-                                "TipeNilaiBiayaAdmin": "AMT"
-                            },
-                            {
-                                "BiayaAdmin": 200000,
-                                "Bunga": 20.5,
-                                "Tenor": 24,
-                                "TipeNilaiBiayaAdmin": "AMT"
-                            }
-                        ]
-                    }
-                ],
-                "PlafonMax": 10000000,
-                "PlafonMin": 1000000,
-                "SchemeId": null
-            }
-        ],
-        "TipeAngsuran": "",
-        "TipeBiayaAdmin": "",
-        "TipeBiayaAdminLainnya": "",
-        "TipeBiayaAsuransi": "",
-        "TipeBiayaFiducia": "",
-        "TipeBiayaLainnya": "",
-        "TipePembayaran": "",
-        "UseInsurace": "False"
-    },
-    {
-        "CeilingValue": 1000,
-        "Code": "PRDTEST",
-        "Descr": "PRADANA TEST",
-        "ErrorMessage": null,
-        "FieldPaymentFreq": "",
-        "FieldTipeAngsuran": "",
-        "FieldTipeBiayaAdmin": "",
-        "FieldTipeBiayaAdminLainnya": "",
-        "FieldTipeBiayaAsuransi": "",
-        "FieldTipeBiayaFiducia": "",
-        "FieldTipeBiayaLainnya": "",
-        "FieldTipePembayaran": "",
-        "Message": null,
-        "PaymentFreq": "",
-        "RiskTypeId": "",
-        "Scheme": [
-            {
-                "ListTenor": [
-                    {
-                        "BiayaAdmin": 100000,
-                        "Bunga": 10.5,
-                        "Tenor": 12,
-                        "TipeNilaiBiayaAdmin": "AMT",
-                        "ListTenor": [
-                            {
-                                "BiayaAdmin": 100000,
-                                "Bunga": 10.5,
-                                "Tenor": 12,
-                                "TipeNilaiBiayaAdmin": "AMT"
-                            },
-                            {
-                                "BiayaAdmin": 200000,
-                                "Bunga": 20.5,
-                                "Tenor": 24,
-                                "TipeNilaiBiayaAdmin": "AMT"
-                            }
-                        ]
-                    },
-                    {
-                        "BiayaAdmin": 200000,
-                        "Bunga": 20.5,
-                        "Tenor": 24,
-                        "TipeNilaiBiayaAdmin": "AMT",
-                        "ListTenor": [
-                            {
-                                "BiayaAdmin": 100000,
-                                "Bunga": 10.5,
-                                "Tenor": 12,
-                                "TipeNilaiBiayaAdmin": "AMT"
-                            },
-                            {
-                                "BiayaAdmin": 200000,
-                                "Bunga": 20.5,
-                                "Tenor": 24,
-                                "TipeNilaiBiayaAdmin": "AMT"
-                            }
-                        ]
-                    }
-                ],
-                "PlafonMax": 10000000,
-                "PlafonMin": 1000000,
-                "SchemeId": null
-            }
-        ],
-        "TipeAngsuran": "",
-        "TipeBiayaAdmin": "",
-        "TipeBiayaAdminLainnya": "",
-        "TipeBiayaAsuransi": "",
-        "TipeBiayaFiducia": "",
-        "TipeBiayaLainnya": "",
-        "TipePembayaran": "",
-        "UseInsurace": "False"
-    }
-]
+        {
+            "CeilingValue": 1000,
+            "Code": "PRDTEST",
+            "Descr": "PRADANA TEST",
+            "ErrorMessage": null,
+            "FieldPaymentFreq": "",
+            "FieldTipeAngsuran": "",
+            "FieldTipeBiayaAdmin": "",
+            "FieldTipeBiayaAdminLainnya": "",
+            "FieldTipeBiayaAsuransi": "",
+            "FieldTipeBiayaFiducia": "",
+            "FieldTipeBiayaLainnya": "",
+            "FieldTipePembayaran": "",
+            "Message": null,
+            "PaymentFreq": "",
+            "RiskTypeId": "",
+            "Scheme": [
+                {
+                    "ListTenor": [
+                        {
+                            "BiayaAdmin": 100000,
+                            "Bunga": 10.5,
+                            "Tenor": 12,
+                            "TipeNilaiBiayaAdmin": "AMT",
+                            "ListTenor": [
+                                {
+                                    "BiayaAdmin": 100000,
+                                    "Bunga": 10.5,
+                                    "Tenor": 12,
+                                    "TipeNilaiBiayaAdmin": "AMT"
+                                },
+                                {
+                                    "BiayaAdmin": 200000,
+                                    "Bunga": 20.5,
+                                    "Tenor": 24,
+                                    "TipeNilaiBiayaAdmin": "AMT"
+                                }
+                            ]
+                        },
+                        {
+                            "BiayaAdmin": 200000,
+                            "Bunga": 20.5,
+                            "Tenor": 24,
+                            "TipeNilaiBiayaAdmin": "AMT",
+                            "ListTenor": [
+                                {
+                                    "BiayaAdmin": 100000,
+                                    "Bunga": 10.5,
+                                    "Tenor": 12,
+                                    "TipeNilaiBiayaAdmin": "AMT"
+                                },
+                                {
+                                    "BiayaAdmin": 200000,
+                                    "Bunga": 20.5,
+                                    "Tenor": 24,
+                                    "TipeNilaiBiayaAdmin": "AMT"
+                                }
+                            ]
+                        }
+                    ],
+                    "PlafonMax": 10000000,
+                    "PlafonMin": 1000000,
+                    "SchemeId": null
+                }
+            ],
+            "TipeAngsuran": "",
+            "TipeBiayaAdmin": "",
+            "TipeBiayaAdminLainnya": "",
+            "TipeBiayaAsuransi": "",
+            "TipeBiayaFiducia": "",
+            "TipeBiayaLainnya": "",
+            "TipePembayaran": "",
+            "UseInsurace": "False"
+        },
+        {
+            "CeilingValue": 1000,
+            "Code": "PRDTEST",
+            "Descr": "PRADANA TEST",
+            "ErrorMessage": null,
+            "FieldPaymentFreq": "",
+            "FieldTipeAngsuran": "",
+            "FieldTipeBiayaAdmin": "",
+            "FieldTipeBiayaAdminLainnya": "",
+            "FieldTipeBiayaAsuransi": "",
+            "FieldTipeBiayaFiducia": "",
+            "FieldTipeBiayaLainnya": "",
+            "FieldTipePembayaran": "",
+            "Message": null,
+            "PaymentFreq": "",
+            "RiskTypeId": "",
+            "Scheme": [
+                {
+                    "ListTenor": [
+                        {
+                            "BiayaAdmin": 100000,
+                            "Bunga": 10.5,
+                            "Tenor": 12,
+                            "TipeNilaiBiayaAdmin": "AMT",
+                            "ListTenor": [
+                                {
+                                    "BiayaAdmin": 100000,
+                                    "Bunga": 10.5,
+                                    "Tenor": 12,
+                                    "TipeNilaiBiayaAdmin": "AMT"
+                                },
+                                {
+                                    "BiayaAdmin": 200000,
+                                    "Bunga": 20.5,
+                                    "Tenor": 24,
+                                    "TipeNilaiBiayaAdmin": "AMT"
+                                }
+                            ]
+                        },
+                        {
+                            "BiayaAdmin": 200000,
+                            "Bunga": 20.5,
+                            "Tenor": 24,
+                            "TipeNilaiBiayaAdmin": "AMT",
+                            "ListTenor": [
+                                {
+                                    "BiayaAdmin": 100000,
+                                    "Bunga": 10.5,
+                                    "Tenor": 12,
+                                    "TipeNilaiBiayaAdmin": "AMT"
+                                },
+                                {
+                                    "BiayaAdmin": 200000,
+                                    "Bunga": 20.5,
+                                    "Tenor": 24,
+                                    "TipeNilaiBiayaAdmin": "AMT"
+                                }
+                            ]
+                        }
+                    ],
+                    "PlafonMax": 10000000,
+                    "PlafonMin": 1000000,
+                    "SchemeId": null
+                }
+            ],
+            "TipeAngsuran": "",
+            "TipeBiayaAdmin": "",
+            "TipeBiayaAdminLainnya": "",
+            "TipeBiayaAsuransi": "",
+            "TipeBiayaFiducia": "",
+            "TipeBiayaLainnya": "",
+            "TipePembayaran": "",
+            "UseInsurace": "False"
+        }
+    ]
 }
