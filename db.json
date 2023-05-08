@@ -22,18 +22,21 @@
                         {
                             "BiayaAdmin": 100000,
                             "Bunga": 10.5,
+                            "Bungafinal" : 200000,
                             "Tenor": 12,
                             "TipeNilaiBiayaAdmin": "AMT",
                             "ListTenor": [
                                 {
                                     "BiayaAdmin": 100000,
                                     "Bunga": 10.5,
+                                    "Bungafinal" : 200000,
                                     "Tenor": 12,
                                     "TipeNilaiBiayaAdmin": "AMT"
                                 },
                                 {
                                     "BiayaAdmin": 200000,
                                     "Bunga": 20.5,
+                                    "Bungafinal" : 200000,
                                     "Tenor": 24,
                                     "TipeNilaiBiayaAdmin": "AMT"
                                 }
@@ -42,18 +45,21 @@
                         {
                             "BiayaAdmin": 200000,
                             "Bunga": 20.5,
+                            "Bungafinal" : 200000,
                             "Tenor": 24,
                             "TipeNilaiBiayaAdmin": "AMT",
                             "ListTenor": [
                                 {
                                     "BiayaAdmin": 100000,
                                     "Bunga": 10.5,
+                                    "Bungafinal" : 200000,
                                     "Tenor": 12,
                                     "TipeNilaiBiayaAdmin": "AMT"
                                 },
                                 {
                                     "BiayaAdmin": 200000,
                                     "Bunga": 20.5,
+                                    "Bungafinal" : 200000,
                                     "Tenor": 24,
                                     "TipeNilaiBiayaAdmin": "AMT"
                                 }
@@ -96,6 +102,7 @@
                         {
                             "BiayaAdmin": 100000,
                             "Bunga": 10.5,
+                            "Bungafinal" : 200000,
                             "Tenor": 12,
                             "TipeNilaiBiayaAdmin": "AMT",
                             "ListTenor": [
@@ -118,6 +125,7 @@
                         {
                             "BiayaAdmin": 200000,
                             "Bunga": 20.5,
+                            "Bungafinal" : 200000,
                             "Tenor": 24,
                             "TipeNilaiBiayaAdmin": "AMT",
                             "ListTenor": [
